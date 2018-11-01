@@ -1,1 +1,1 @@
-TLIPA_API = 'http://tlipa-api.tlipa.nettitude.info'
+TLIPA_API_URL = 'http://tlipa-api.tlipa.nettitude.info'

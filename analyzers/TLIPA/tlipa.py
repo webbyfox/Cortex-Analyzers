@@ -1,4 +1,6 @@
-from .constants import TLIPA_API
+import requests
+
+
 
 from cortexutils.analyzer import Analyzer
 
