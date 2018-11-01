@@ -1,0 +1,1 @@
+TLIPA_API = 'http://tlipa-api.tlipa.nettitude.info'

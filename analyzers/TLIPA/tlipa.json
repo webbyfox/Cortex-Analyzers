@@ -1,0 +1,11 @@
+{
+  "name": "TLIPA",
+  "version": "0.1",
+  "author": "Rizwan Mansuri",
+  "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+  "license": "AGPL-V3",
+  "description": "Use TLIPA to find block listed IP address.",
+  "dataTypeList": ["ip"],
+  "baseConfig": "",
+  "command": "TLIPA/tlipa.py"
+}
