@@ -11,7 +11,7 @@ class TLIPA(Analyzer):
         if self.data_type == 'ip':
             try:
                 data = self.get_data()
-               #Todo: Query TLIPA API to get data and generate json
+               #Todo: Query TLIPA API to get result and generate json
 
             except ValueError as e:
                 self.error('Invalid IP address')
